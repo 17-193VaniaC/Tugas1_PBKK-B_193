@@ -1,0 +1,14 @@
+{
+  "name": "tugas1_profil",
+  "version": "1.0.0",
+  "description": "Tugas 1 pbkkb 193",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "05111740000193",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^8.0.0"
+  }
+}
